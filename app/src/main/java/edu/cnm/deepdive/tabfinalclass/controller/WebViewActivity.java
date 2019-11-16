@@ -18,7 +18,7 @@ public class WebViewActivity extends AppCompatActivity {
 
     //initialize link
     HashMap<String, String> linkInitializeOptions = new HashMap<String, String>();
-    linkInitializeOptions.put("key", "0c5bb5681c5687a8b071df6238742f");
+    linkInitializeOptions.put("key", "PUBLIC KEY");
     linkInitializeOptions.put("product", "auth");
     linkInitializeOptions.put("apiVersion", "v2");
     linkInitializeOptions.put("env", "sandbox");
